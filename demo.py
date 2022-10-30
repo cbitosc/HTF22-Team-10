@@ -289,7 +289,7 @@ root.geometry("")
 
 test_list = l1
 
-bg = PhotoImage(file = "C:/Users/boorl/Downloads/Disease-prediction-using-Machine-Learning-master/Disease-prediction-using-Machine-Learning-master/bgimg2.png")
+bg = PhotoImage(file = "bgimg2.png")
 
 label1 = Label(root, image = bg)
 label1.place(x = 0, y = 0)
